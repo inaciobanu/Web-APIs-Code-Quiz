@@ -39,7 +39,7 @@ The following animation demonstrates the application functionality:
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the functional, deployed application is [here](...)
+* The URL of the functional, deployed application is [here](https://inaciobanu.github.io/Web-APIs-Code-Quiz/).
 
 * The URL of the GitHub repository is [here](https://github.com/inaciobanu/Web-APIs-Code-Quiz).
 
