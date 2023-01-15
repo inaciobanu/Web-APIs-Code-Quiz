@@ -1,6 +1,5 @@
-{
-    question: "If you type the following code in the console window, what result will you get?
-    3 > 2 > 1 === false;",
+var questions = [{
+    question: "If you type the following code in the console window, what result will you get? \n 3 > 2 > 1 === false;",
     answers: [
         "true",
         "false",
@@ -45,11 +44,11 @@
     answers: [
         "let button = document.new('button');",
         "let button = document.createElement('');",
-        "let button = document.createElement('button');", "CORRECT"
+        "let button = document.createElement('button');", // correct
         "let button = document.makeElement('{button}');"
     ],
     correctAnswerIndex: 5
-},
+}]
 
 
 
