@@ -41,7 +41,7 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application is [here](...)
 
-* The URL of the GitHub repository is [here](...).
+* The URL of the GitHub repository is [here](https://github.com/inaciobanu/Web-APIs-Code-Quiz).
 
 ---
 Inspired by © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
